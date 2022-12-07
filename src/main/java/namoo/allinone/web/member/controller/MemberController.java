@@ -189,4 +189,6 @@ public class MemberController {
 		return "redirect:/";
 	}
 	
+//	git test 주석
+	
 }
